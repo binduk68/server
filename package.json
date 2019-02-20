@@ -6,6 +6,6 @@
         "start": "node peerserver.js"
     },
     "dependencies": {
-        "peer": "0.3.20"
+        "peer": "0.2.10"
     }
 }
